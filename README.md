@@ -12,7 +12,7 @@ It allows users to search for word meanings and suggests close matches if the wo
 
 # 🚀 How to Run
 Step 1: Clone the Repository
-git clone https://github.com/your-username/Dictionary app.git
+git clone https://github.com/your-username/Dictionaryapp.git
 
 cd Dictionary app.py
 
