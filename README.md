@@ -12,13 +12,16 @@ It allows users to search for word meanings and suggests close matches if the wo
 
 # 🚀 How to Run
 Step 1: Clone the Repository
-git clone https://github.com/your-username/dictionary-gui-app.git
-cd dictionary-gui-app
+git clone https://github.com/your-username/Dictionary app.git
+
+cd Dictionary app.py
 
 Step 2: Run the App
-python dictionary_gui.py
+python Dictionary app.py
 
 # 📦 Requirements
 -Python 3.x
+
 -Tkinter (comes pre-installed with Python)
+
 -data.json file containing dictionary data
